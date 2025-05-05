@@ -33,6 +33,7 @@ npx @iobroker/repochecker https://github.com/ioBroker/ioBroker.javascript --loca
 -->
 
 ## Changelog
+
 ### 3.5.5 (2025-04-28)
 
 - (mcm1957) Node.js 20 is suggested now.
@@ -63,7 +64,7 @@ npx @iobroker/repochecker https://github.com/ioBroker/ioBroker.javascript --loca
 - (mcm1957) Check that key listed at encryptedNative is listed at protectedNative too. [#342]
 - (mcm1957) Check that extension adapters require web adapter. [#311]
 - (mcm1957) List of suspicious keys to protect has been extended. [#358]
-- (mcm1957) checking of 'admin'  globalDependency has been added.
+- (mcm1957) checking of 'admin' globalDependency has been added.
 - (mcm1957) checking of 'publishConfig.registry' has been added.
 - (mcm1957) New commandline option --noinfo added.
 - (mcm1957) Logging has been adapted.
@@ -117,6 +118,7 @@ npx @iobroker/repochecker https://github.com/ioBroker/ioBroker.javascript --loca
 - (mcm1957) Releaseinfo has been added to "checks" log.
 
 ### 3.2.4 (2025-01-16)
+
 - (mcm1957) Suggested release of testing and adapter-core increased.
 
 ### 3.2.3 (2025-01-11)
